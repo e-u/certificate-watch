@@ -57,6 +57,10 @@ The tool will start monitoring the specified domains for new subdomains and SSL/
 
 Contributions are welcome! Please feel free to submit pull requests, suggest features, or report bugs.
 
+## Show Your Support
+
+If you find this project useful, please consider giving it a star ⭐!
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
